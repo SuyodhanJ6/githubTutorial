@@ -40,3 +40,10 @@ git checkout main/developer1
 git merge developer1
 
 ## I created Developer2 branch
+git brach developer2
+
+## Checking all logs 
+git log
+
+### Checking all log in details
+git log -p

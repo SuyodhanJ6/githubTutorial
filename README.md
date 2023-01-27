@@ -47,3 +47,7 @@ git log
 
 ### Checking all log in details
 git log -p
+
+### Deleting branch
+git branch -d developer1
+

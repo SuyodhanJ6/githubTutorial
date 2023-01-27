@@ -38,8 +38,5 @@ git branch developer1
 git checkout developer1
 
 
-
-###
-###
-###
-###
+## Merging To Main Branch
+git merge developer1

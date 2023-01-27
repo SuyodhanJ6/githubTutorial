@@ -51,3 +51,13 @@ git log -p
 ### Deleting branch
 git branch -d developer1
 
+
+
+# For cloning purpose first add people then send the request
+# Accept the request 
+
+copy the url 
+git clone <url>
+
+## Then we changing the file 
+

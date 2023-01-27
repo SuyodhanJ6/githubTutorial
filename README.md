@@ -38,3 +38,5 @@ git checkout main/developer1
 
 ## Merging To Main Branch
 git merge developer1
+
+## I created Developer2 branch

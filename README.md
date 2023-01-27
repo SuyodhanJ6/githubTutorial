@@ -30,3 +30,10 @@ git remote -v
 ### 10. Pushing file in the main branch
 git push origin main
 
+
+### Create Another Branch 
+git branch developer1
+
+### Switching One branch to another branch
+git checkout developer1
+

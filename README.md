@@ -20,3 +20,13 @@ git add .
 
 ## 7. Committing the file and write a msg
 git commit -m "This is my First Commit"
+
+## 8. Checking Which Branch is using 
+git branch
+
+## 9. remote -v
+git remote -v
+
+## 10. Pushing file in the main branch
+git push origin main
+

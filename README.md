@@ -57,7 +57,7 @@ git branch -d developer1
 # Accept the request 
 
 copy the url 
-git clone <url>
+git clone <<url>>
 
 ## Then we changing the file 
 

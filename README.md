@@ -31,9 +31,5 @@ git remote -v
 git push origin main
 
 
-### Create Another Branch 
-git branch developer1
-
-### Switching One branch to another branch
-git checkout developer1
-
+## Merging To Main Branch
+git merge developer1
